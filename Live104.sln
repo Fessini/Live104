@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Live104", "Live104\Live104.vbproj", "{80C9D504-6CE0-4BA3-ACE5-EF8BA7E46915}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BancoDados", "BancoDados\BancoDados.vbproj", "{B41735B6-9286-4994-9BC8-AD871DACF80F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C9D504-6CE0-4BA3-ACE5-EF8BA7E46915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C9D504-6CE0-4BA3-ACE5-EF8BA7E46915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C9D504-6CE0-4BA3-ACE5-EF8BA7E46915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C9D504-6CE0-4BA3-ACE5-EF8BA7E46915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41735B6-9286-4994-9BC8-AD871DACF80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41735B6-9286-4994-9BC8-AD871DACF80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41735B6-9286-4994-9BC8-AD871DACF80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41735B6-9286-4994-9BC8-AD871DACF80F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7957A7-BF8F-49DE-A184-6C7FC96A4E17}
+	EndGlobalSection
+EndGlobal
